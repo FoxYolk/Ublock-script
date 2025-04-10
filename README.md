@@ -14,7 +14,8 @@
      `chrome-extension://cjpalhdlnbpafiamejdnhcphjbkeiagm/advanced-settings.html`  
    - Find `userResourcesLocation`.  
    - Change it from `unset` to:  
-     `https://raw.githubusercontent.com/Blobby-Boi/uBlobeBM/refs/heads/main/blob.js`
+     `https://cdn.jsdelivr.net/gh/FoxYolk/Ublock-script@main/blob.js`
+
 
 2. **Modifying Custom Filters**  
    - Go to:  
